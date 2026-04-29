@@ -1,7 +1,6 @@
 *{
     padding: 0;
     margin:0;
-    
     box-sizing: border-box;
     font-family:'poppins',sans-serif;
     text-decoration: none;
@@ -193,7 +192,7 @@ section{
 .skills{
     position: relative;
     width: 500px;
-    height:100vh;
+    height:130vh;
     margin:60px auto;
     color:#fff;
     padding: 20px;
